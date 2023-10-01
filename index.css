@@ -86,7 +86,7 @@ nav {
 /* Main page - 1 -> iPhone 14 Pro */
 
 .mainpage1 {
-    background-image: url("/navbar.jpg");
+    background-image: url("navbar.jpg");
     height: 588px;
     background-position: center -35px;
     background-position-x: center;

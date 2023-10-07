@@ -256,18 +256,18 @@ nav {
 
 /* Footer  */
 
-footer {
-    background-color: rgb(243, 243, 243);
-    height: 100%;
-    display: flex;
+.footertext1{
+    padding: 3%;
     justify-content: center;
+    background-color: #e3d1d1;
+    font-size: 15px;
 }
-
-.footertext1 {
-    margin: 25px;
-    width: 820px;
-    font-size: 13px;
-    color: rgb(71, 71, 71);
+.footer{
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+   margin-right: 100px;
+  
 }
 
 

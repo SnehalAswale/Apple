@@ -138,7 +138,7 @@ nav {
 /* Main page - 1 -> iPhone 14 Pro */
 
 .mainpage1 {
-    background-image: url("/navbar.jpg");
+    background-image: url("navbar.jpg");
     height: 588px;
     background-position: center -35px;
     background-position-x: center;
@@ -168,7 +168,7 @@ nav {
 /* Main page - 2 -> iPhone 14 */
 
 .mainpage2 {
-    background-image: url("/hero_iphone15_announce__uuemlcwczn6u_largetall.jpg");
+    background-image: url("hero_iphone15_announce__uuemlcwczn6u_largetall.jpg");
     background-position-x: center;
     height: 82vh;
     width: 100vw;
@@ -201,7 +201,7 @@ nav {
 /* Main page - 3 -> Apple watch */
 
 .mainpage3 {
-    background-image: url("/image3.jpg");
+    background-image: url("image3.jpg");
     height: 78vh;
     background-position-x: center;
     width: 100%;
@@ -236,32 +236,32 @@ nav {
 
 
 .promo1 {
-    background-image: url("/4-1.jpg");
+    background-image: url("4-1.jpg");
     background-position-x: center;
     height: 560px;
 
 }
 
 .promo2 {
-    background-image: url("/4-2.jpg");
+    background-image: url("4-2.jpg");
     background-position-x: center;
     height: 560px;
 }
 
 .promo3 {
-    background-image: url("/hero__d5yx0jn6usae_large.jpg");
+    background-image: url("hero__d5yx0jn6usae_large.jpg");
     background-position-x: center;
     height: 560px;
 }
 
 .promo4 {
-    background-image: url("/promo_bts2023_startframe__exvt2t1iuxme_medium.jpg");
+    background-image: url("promo_bts2023_startframe__exvt2t1iuxme_medium.jpg");
     background-position-x: center;
     height: 560px;
 }
 
 .promo5 {
-    background-image: url("/promo_macbook_air_15_midnight__3zojl1nanrme_large.jpg");
+    background-image: url("promo_macbook_air_15_midnight__3zojl1nanrme_large.jpg");
     background-position-x: center;
     height: 560px;
     margin-top: 50px;

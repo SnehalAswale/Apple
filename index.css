@@ -69,26 +69,6 @@ nav {
     margin-top: -2.9px;
 }
 
-/* The info box below the Navbar */
-
-.infobartext {
-    margin-top: 50px;
-    text-align: center;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-
-}
-
-.infobar {
-    background-color: white;
-    height: 100%;
-    padding: 10px;
-    font-size: 14px;
-    display: flex;
-    justify-content: center;
-}
-
 
 .gifts{
     display: flex;
@@ -304,112 +284,6 @@ nav {
 .wwdc23text {
    font-size: 18px;
 }
-
-.slider-part{
-    padding: 2vh 0vw;
-    width: 100%;
-    height: 70vh;
-}
-
-.swiper {
-    width: 100%;
-    height: 100%;
-}
-
-.swiper-slide {
-    text-align: center;
-    font-size: 18px;
-    background: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.swiper-slide img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-
-.swiper-slide {
-    width:  90%;
-    background-position: center;
-    background-size: cover;
-}
-
-.swiper-1{
-    background-image: url(1.jpg);
-}
-.swiper-2{
-    background-image: url(2.jpg);
-}
-.swiper-3{
-    background-image: url(3.jpg);
-}
-.swiper-4{
-    background-image: url(4.jpg);
-}
-.swiper-5{
-    background-image: url(5.jpg);
-}
-.swiper-6{
-    background-image: url(6.jpg);
-}
-
-.ri-menu-3-line{
-    display: none;
-}
-
-.respo-nav{
-    position: absolute;
-    top: -120%;
-    width: 100%;
-    height: 100vh;
-    background-color: rgb(255, 255, 255);
-    display: none;
-    z-index: 99;
-    transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
-}
-
-.submenu{
-    top: -100%;
-    position: absolute;
-    width: 100%;
-    height: 95vh;
-    z-index: 999;
-    transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
-    pointer-events: none;
-}
-
-.sub-top{
-    display: flex;
-    flex-direction: column;
-    gap: 2vh;
-    width: 100%;
-    height: 50vh;
-    background-color: #ffffff;
-    padding: 5vw 20vw;
-}
-
-.sub-top a{
-    text-decoration: none;
-    font-size: 1vw;
-    color: #333;
-
-}
-
-.sub-btm{
-    width: 100%;
-    height: 45vh;
-    background: rgba(0, 0, 0, 0.085);
-    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-    -webkit-backdrop-filter: blur( 4px );
-    backdrop-filter: blur( 4px );
-}
-
-
-
 
 /* Footer  */
 .footer1{

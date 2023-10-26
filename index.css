@@ -316,6 +316,7 @@ nav {
     list-style: none;
     margin: 0;
     margin-bottom: 7px;
+  cursor: pointer;
 }
 .product-list li{
     margin-bottom: 12px;
